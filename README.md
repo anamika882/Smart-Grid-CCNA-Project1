@@ -38,11 +38,11 @@ It includes:
 
 ## 🌐 Network Topology
 
-![Smart Grid Topology](topology.png)
+![Smart Grid Topology](TOPOLOGY.png)
 ## 🌐 Network Topology
 
 <p align="center">
-  <img src="topology.png" width="800">
+  <img src="TOPOLOGY.png" width="800">
 </p>
 
 ## 🚀 Author
