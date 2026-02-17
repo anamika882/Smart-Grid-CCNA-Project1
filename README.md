@@ -36,5 +36,14 @@ It includes:
 ## 📁 Files Included
 - SmartGrid_CCNA_Project.pkt
 
+## 🌐 Network Topology
+
+![Smart Grid Topology](topology.png)
+## 🌐 Network Topology
+
+<p align="center">
+  <img src="topology.png" width="800">
+</p>
+
 ## 🚀 Author
 Anamika Guha
