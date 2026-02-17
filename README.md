@@ -51,7 +51,7 @@ It includes:
 </p>
 ## R2 IP ROUTE
 <p align="center">
-  <img src="IP ROUTE R2.PNG" width="800">
+  <img src="IP RROUTE R2.PNG" width="800">
 </p>
 ## SSH LOGIN
 <p align="center">
